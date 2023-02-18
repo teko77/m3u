@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:0,BG: Bnt 1 HD
+http://94.156.59.247:8899/udp/239.10.1.168:30000
+#EXTINF:0,BG: B Tv HD
+http://94.156.59.247:8899/udp/239.10.1.138:30000
+#EXTINF:0,NOVA
+http://85.11.144.9:4222/NovaHD?token=test
+#EXTINF:0,BG: Diema Tv
+http://85.11.144.9:4222/Diema?token=test
+#EXTINF:0,BG: Kino Nova HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69572
+#EXTINF:0,BG: B Tv Action HD
+http://aroa2020.com:80/WM8sN7AtjL/zTeWUTUp6S/1323207
+#EXTINF:0,BG: B Tv Cinema
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69524
+#EXTINF:0,BG: Fox HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69560
+#EXTINF:0,BG: Axn
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69615
+#EXTINF:0,BG: Movie Star HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69576
+#EXTINF:0,BG: Amc
+http://aroa2020.com:80/WM8sN7AtjL/zTeWUTUp6S/1323225
+#EXTINF:0,BG:VIVACOM TV
+http://85.11.144.9:4222/VivacomArena?token=test
+#EXTINF:0,BG: Planeta HD+
+http://94.156.59.247:8899/udp/239.10.1.211:30000
+#EXTINF:0,BG: Fen TV HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69553
+#EXTINF:0,BG: City TV
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69624
+#EXTINF:0,BG: The Voice TV
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69643
+#EXTINF:0,BG: B Tv Comedy
+http://aroa2020.com:80/WM8sN7AtjL/zTeWUTUp6S/1323205
+#EXTINF:0,BG: Diema Sport 1 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69539
+#EXTINF:0,BG: Diema Sport 2 HD
+http://212.5.59.2:9882/play/a016/index.m3u8
+#EXTINF:0,BG: Diema Sport 3 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69654
+#EXTINF:0,BG: Ring HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69595
+#EXTINF:0,BG: Discovery Channel HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69626
+#EXTINF:0,BG: Nat Geo Wild HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69588
+#EXTINF:0,BG: Nat Geo HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69587
+#EXTINF:0,BG: Viasat Explore East
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69660
+#EXTINF:0,BG: B Tv Comedy 1
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69620
+#EXTINF:0,BG: MAX Sport 1 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69644
+#EXTINF:0,BG: Max Sport 2 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69577
+#EXTINF:0,BG: MAX Sport 3 HD
+http://212.5.59.2:9882/play/a019/index.m3u8
+#EXTINF:0,BG: MAX Sport 4 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69646
+#EXTINF:0,BG: Hbo 1 HD
+http://aroa2020.com:80/WM8sN7AtjL/zTeWUTUp6S/1323200
+#EXTINF:0,BG: Hbo 2 HD
+http://aroa2020.com:80/WM8sN7AtjL/zTeWUTUp6S/1323201
+#EXTINF:0,BG: Hbo 3 HD
+http://aroa2020.com:80/WM8sN7AtjL/zTeWUTUp6S/1323202
+#EXTINF:0,BG: Cinemax HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69532
+#EXTINF:0,BG: Cinemax 2 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69623
+#EXTINF:0,BG: Tv 1000
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69658
+#EXTINF:0,BG: Cinema Plus
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69531
+#EXTINF:0,BG: Action Plus HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69513
+#EXTINF:0,BG: FilmBox HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69637
+#EXTINF:0,BG: FilmBox Plus
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69556
+#EXTINF:0,BG: FilmBox Extra HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69555
+#EXTINF:0,BG: Tv Evropa
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69659
+#EXTINF:0,BG: Kanal 3 HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69571
+#EXTINF:0,BG: Bnt 2 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69521
+#EXTINF:0,BG: 7/8 Tv HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69512
+#EXTINF:0,BG: Fine Living
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69557
+#EXTINF:0,BG: Fox Crime HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69559
+#EXTINF:0,BG: Fox Life HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69561
+#EXTINF:0,BG: Hbo HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69566
+#EXTINF:0,BG: Hbo +1
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69563
+#EXTINF:0,BG: Diema Family HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69536
+#EXTINF:0,BG: B Tv Lady HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69527
+#EXTINF:0,BG: Diema Sport HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69539
+#EXTINF:0,BG: Axn Black
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69614
+#EXTINF:0,BG: Axn White
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69616
+#EXTINF:0,BG: Planeta Folk
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69593
+#EXTINF:0,BG: Fen Folk
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69635
+#EXTINF:0,BG: Balkanika Music HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69518
+#EXTINF:0,BG: Bg Music HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69617
+#EXTINF:0,BG: Mtv
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69578
+#EXTINF:0,BG: Mtv Music
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69583
+#EXTINF:0,BG: MTV Live HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69647
+#EXTINF:0,BG: Mtv Dance
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69581
+#EXTINF:0,BG: MTV Hits
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69582
+#EXTINF:0,BG: Evrokom
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69631
+#EXTINF:0,BG: Nova Sport HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69590
+#EXTINF:0,BG: Max Sports 2 HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69574
+#EXTINF:0,BG: Sport Plus HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69653
+#EXTINF:0,BG: Eurosport 1 HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69550
+#EXTINF:0,BG: Eurosport 2 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69551
+#EXTINF:0,BG: World Fight Channel HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69663
+#EXTINF:0,BG: Bnt 3 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69522
+#EXTINF:0,BG: Bnt World
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69520
+#EXTINF:0,BG: Wild TV HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69661
+#EXTINF:0,BG: Animal Planet HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69515
+#EXTINF:0,BG: History Channel HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69641
+#EXTINF:0,BG: Discovery Science HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69627
+#EXTINF:0,BG: ID Investigation Discovery HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69569
+#EXTINF:0,BG: DocuBox HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69628
+#EXTINF:0,BG: Food Network HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69638
+#EXTINF:0,BG: Tlc Tv
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69603
+#EXTINF:0,BG: Viasat History
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69609
+#EXTINF:0,BG: Nature & History HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69648
+#EXTINF:0,BG: Travel Channel HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69604
+#EXTINF:0,BG: Auto Motor Sport HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69613
+#EXTINF:0,BG: Cartoon Network
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69529
+#EXTINF:0,BG: Disney Channel
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69541
+#EXTINF:0,BG: Disney Junior
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69542
+#EXTINF:0,BG: Nickelodeon
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69589
+#EXTINF:0,BG: Duck TV
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69546
+#EXTINF:0,BG: Baby TV
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69516
+#EXTINF:0,BG: E Kids
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69547
+#EXTINF:0,BG: Nick Junior
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69649
+#EXTINF:0,BG: Jim Jam
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69570
+#EXTINF:0,BG: Alfa TV
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69514
+#EXTINF:0,BG: Cherno More
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69530
+#EXTINF:0,BG: Balkanika HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69517
+#EXTINF:0,BG: Folklor TV
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69558
+#EXTINF:0,BG: 24 Kitchen HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69511
+#EXTINF:0,BG: Hobby TV HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69567
+#EXTINF:0,BG: Box Tv
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69619
+#EXTINF:0,BG: Skat TV
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69598
+#EXTINF:0,BG: Tiankov Folk HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69601
+#EXTINF:0,BG: Tiankov Orient Folk HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69602
+#EXTINF:0,BG: Vh 1
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69608
+#EXTINF:0,BG: Bulgaria 24 HD+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69621
+#EXTINF:0,BG: Bulgaria On Air
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69622
+#EXTINF:0,BG: Epic Drama HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69630
+#EXTINF:0,BG: Eurosport
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/162310
+#EXTINF:0,BG: Hobby HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69642
+#EXTINF:0,BG: Comedy Plus HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69534
+#EXTINF:0,BG: Vtk
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69611
+#EXTINF:0,BG: Welness TV HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69662
+#EXTINF:0,BG: Fashion Box TV HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69639
+#EXTINF:0,BG: Tv+
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/69657
